@@ -1,2 +1,2 @@
-# my-projects
-Check out the projects, I have tried
+# UniPune Practicals, Mini Projects
+Check out the projects, practicals, ppts.
